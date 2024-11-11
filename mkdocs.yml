@@ -1,0 +1,21 @@
+site_name: Docs Beerus inc.
+site_url: https://docs.beerus.fr/
+nav:
+    - SC Markdown: markdown.md
+    - Tips: tips.md
+    - Linux: linux.md
+    - Techno : techno.md
+    - Kubernetes: kubernetes.md
+    - Docker: docker.md
+    - Terraform: terraform.md
+    - Jenkins: jenkins.md
+    - Consul: consul.md
+    - Git: git.md
+    - Prometheus: prometheus.md
+    - Pain: pain.md
+plugins:
+#  - inline-svg
+  - search
+  - encryptcontent: {}
+theme:
+  name: material
